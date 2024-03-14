@@ -1,0 +1,1 @@
+<img src="![alt text](image/output.png)">
